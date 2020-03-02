@@ -1,0 +1,2 @@
+# 08_threadsLocksMutexSemaphoresThreadpoolAsynchronousprocessing
+Everything about simultenous processing on same resources.
